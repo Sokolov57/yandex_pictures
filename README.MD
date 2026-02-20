@@ -8,4 +8,4 @@
  * Выделим тематики запросов, контрастные для платформ темы с разными долями.
  
  ### P.S Для интерактивного отображения графиков необходимо перейти по ссылке 
- https://sokolov57.github.io/yandex_pictures/yandex_pictures.html
+ https://sokolov57.github.io/yandex_pictures/
